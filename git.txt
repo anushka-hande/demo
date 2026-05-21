@@ -1,0 +1,1 @@
+Git is a local CLI bash-driven tool. It is a distributed version control system.
